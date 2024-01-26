@@ -2,110 +2,70 @@ export const PLAYLIST = [
 	{
 		index: "0",
 		type: "album",
-		title: "Lafıma Gücenme",
+		title: "Pronounced 'Lĕh-'nérd 'Skin-'nérd",
 		link: "lafimagucenme",
 		imgUrl:
-			"https://m.media-amazon.com/images/I/81109PuCjDL._UF1000,1000_QL80_.jpg",
-		hoverColor: "rgb(224, 112, 16)",
-		artist: "Ari Barokos",
-		playlistBg: "rgb(224, 112, 16)",
+			"https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg",
+		hoverColor: "rgb(0, 105, 148",
+		artist: "Lynyrd Skynyrd",
+		playlistBg: "rgb(0, 105, 148)",
 		playlistData: [
 			{
-				index: "1",
-				songName: "Dark Beast Ganon Theme",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b27314f448ae9efd01a34344c075",
-				songArtist: "Manaka Kataoka",
-				link:
-					"https://audio.jukehost.co.uk/y554YOfzTrB6ZlMCZw4984HyYUEyrAil.mp3",
-				trackTime: "4:07",
-			},
-			{
-				"index": "2",
-				"songName": "Riding (Day)",
-				"songimg": "https://static1.squarespace.com/static/56cbd6f4ab48def1a6f7261f/t/58d5b8da59cc68feaa3f5d6a/1490401508723/zelda-BOTW-soundtrack-recreated.jpg",
-				"songArtist": "Manaka Kataoka",
-				"link": "https://vgmsite.com/soundtracks/the-legend-of-zelda-breath-of-the-wild/trbqdcwyee/1-29%20Riding%20%28Day%29.mp3",
-				"trackTime": "1:54"
-			  },
-			  {
-				"index": "3",
-				"songName": "Daruk's Theme",
-				"songimg": "https://static1.squarespace.com/static/56cbd6f4ab48def1a6f7261f/t/58d5b8da59cc68feaa3f5d6a/1490401508723/zelda-BOTW-soundtrack-recreated.jpg",
-				"songArtist": "Yasuaki Iwata",
-				"link": "https://vgmsite.com/soundtracks/the-legend-of-zelda-breath-of-the-wild/eyelbdeaqo/5-22%20Reunion-%20Daruk.mp3",
-				"trackTime": "1:43"
-			  },
-			{
-				index: "4",
-				songName: "Gavurlar",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
-				link:
-					"https://server1.indiryuklemp3.org/mp3_files/gavurlar-hzfjF7ZWLE-0.mp3",
-				trackTime: "4:08",
-			},
-			{
-				index: "5",
-				songName: "Yalan (Demo)",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/8dd8fbb1721d4964028ad362a80ad3ae2422f547?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "6",
-				songName: "Beyni Yok (Demo)",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/70bcfb8ae773f9e74501a6b28d545ac04abd0fdd?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "7",
-				songName: "Nafile (Demo)",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/225415a01d8093fbde5462def2f54c805d5ce4a5?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "8",
-				songName: "Ömrümüz Yine Geçiyor (Demo)",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/d306c50b99606e47644c5ed8a405da31094d0e2b?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "9",
-				songName: "Yangın Var (Demo)",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/8e8aa510101ebb69e5c8c7ae3fd0c20ee21be3ef?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "10",
-				songName: "Egotango (Demo)",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/a74af1d9813db16e08ffdcb52c0c3d43c1b15a61?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
+        "index": "1",
+        "songName": " I Ain't the One",
+        "songimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg",
+        "songArtist": "Lynyrd Skynyrd",
+        "trackTime": "3:54"
+      },
+      {
+        "index": "2",
+        "songName": " Tuesday's Gone",
+        "songimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg",
+        "songArtist": "Lynyrd Skynyrd",
+        "trackTime": "7:34"
+      },
+      {
+        "index": "3",
+        "songName": "Gimme Three Steps",
+        "songimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg",
+        "songArtist": "Lynyrd Skynyrd",
+        "trackTime": "4:31"
+      },
+      {
+        "index": "4",
+        "songName": " Simple Man",
+        "songimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg",
+        "songArtist": "Lynyrd Skynyrd",
+        "trackTime": "6:00"
+      },
+      {
+        "index": "5",
+        "songName": "Things Goin' On",
+        "songimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg",
+        "songArtist": "Lynyrd Skynyrd",
+        "trackTime": "5:00"
+      },
+      {
+        "index": "6",
+        "songName": " Mississippi Kid",
+        "songimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg",
+        "songArtist": "Lynyrd Skynyrd",
+        "trackTime": "3:57"
+      },
+      {
+        "index": "7",
+        "songName": " Poison Whiskey",
+        "songimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg",
+        "songArtist": "Lynyrd Skynyrd",
+        "trackTime": "3:14"
+      },
+      {
+        "index": "8",
+        "songName": "Free Bird",
+        "songimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg",
+        "songArtist": "Lynyrd Skynyrd",
+        "trackTime": "9:13"
+      }
 		],
 	},
 	{
