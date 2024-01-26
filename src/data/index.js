@@ -1,11 +1,11 @@
 export const PLAYLIST = [
 	{
 		index: "0",
-		type: "albüm",
+		type: "album",
 		title: "Lafıma Gücenme",
 		link: "lafimagucenme",
 		imgUrl:
-			"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+			"https://m.media-amazon.com/images/I/81109PuCjDL._UF1000,1000_QL80_.jpg",
 		hoverColor: "rgb(224, 112, 16)",
 		artist: "Ari Barokos",
 		playlistBg: "rgb(224, 112, 16)",
@@ -286,7 +286,7 @@ export const PLAYLIST = [
 	},
 	{
 		index: "5",
-		type: "albüm",
+		type: "album",
 		title: "Ben",
 		link: "ben",
 		imgUrl:

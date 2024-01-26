@@ -35,7 +35,7 @@
 }
 @media screen and (max-width: 640px) {
     .Topnav{
-        background-color: #121212;
+        background-color: transparent;
         height: 50px;
     }
     .Topnav div{

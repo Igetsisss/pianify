@@ -6,24 +6,7 @@ export default {
 }
 
 export const MENU = [
-  {
-    title: 'Ana sayfa',
-    path: '/',
-    icon: <Icon.Home />,
-    iconSelected: <Icon.HomeActive />
-  },
-  {
-    title: 'Ara',
-    path: '/search',
-    icon: <Icon.Search />,
-    iconSelected: <Icon.SearchActive />
-  },
-  {
-    title: 'Kitaplığın',
-    path: '/library',
-    icon: <Icon.Library />,
-    iconSelected: <Icon.LibraryActive />
-  }
+
 ]
 
 export const PLAYLISTBTN = [
