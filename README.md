@@ -23,4 +23,15 @@ Inspired by the renowned Spotify Web Player, *Pianify* boasts an intuitive and e
 Embark on a musical adventure with *Pianify*. Explore the preview and witness the collaborative brilliance of *Oğuzhan ULUKAYA* and *Jack Underwood*. This project stands as a testament to their dedication and passion for creating a platform that transcends musical boundaries.
 
 **Pianify – A Harmonious Fusion of Creativity, Innovation, and Musical Expression.**
+
+# Pianify: Build and Run Instructions
+
+## Run Locally
+Clone the repository and execute the following command line actions:
+```
+$> cd pianify
+$> npm install
+$> npm run start
+```
+
 *chat gpt wrote this for me cause im kinda lazy*
