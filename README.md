@@ -1,6 +1,6 @@
-# Spotify Web Player Clone
+# Pianify
 
-A front-end clone project of the Spotify Web Player. The project was created using React. This is my first big React.js project.
+A front-end clone project of the Spotify Web Player by Oğuzhan ULUKAYA. Used as a Website and PWA to control Homemade Self Playing Piano
 
 ## Preview Link
 - [Pianify](https://piano-website-chi.vercel.app/)
