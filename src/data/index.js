@@ -12,34 +12,30 @@ export const PLAYLIST = [
 		playlistData: [
 			{
 				index: "1",
-				songName: "Yaşıyorum Sil Baştan",
+				songName: "Dark Beast Ganon Theme",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
+					"https://i.scdn.co/image/ab67616d0000b27314f448ae9efd01a34344c075",
+				songArtist: "Manaka Kataoka",
 				link:
-					"https://server1.indiryuklemp3.org/mp3_files/yasiyorum-sil-bastan-h8OmycopAr-0.mp3",
-				trackTime: "3:19",
+					"https://audio.jukehost.co.uk/y554YOfzTrB6ZlMCZw4984HyYUEyrAil.mp3",
+				trackTime: "4:07",
 			},
 			{
-				index: "2",
-				songName: "Salaksın",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
-				link:
-					"https://server1.indiryuklemp3.org/mp3_files/salaksin-I6hfUKt21R-0.mp3",
-				trackTime: "5:12",
-			},
-			{
-				index: "3",
-				songName: "Yanlızlık Kanında Var",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
-				songArtist: "Ari Barokos",
-				link:
-					"https://server1.indiryuklemp3.org/mp3_files/yalnizlik-kaninda-var-0vWfgutCZj-0.mp3",
-				trackTime: "3:48",
-			},
+				"index": "2",
+				"songName": "Riding (Day)",
+				"songimg": "https://static1.squarespace.com/static/56cbd6f4ab48def1a6f7261f/t/58d5b8da59cc68feaa3f5d6a/1490401508723/zelda-BOTW-soundtrack-recreated.jpg",
+				"songArtist": "Manaka Kataoka",
+				"link": "https://vgmsite.com/soundtracks/the-legend-of-zelda-breath-of-the-wild/trbqdcwyee/1-29%20Riding%20%28Day%29.mp3",
+				"trackTime": "1:54"
+			  },
+			  {
+				"index": "3",
+				"songName": "Daruk's Theme",
+				"songimg": "https://static1.squarespace.com/static/56cbd6f4ab48def1a6f7261f/t/58d5b8da59cc68feaa3f5d6a/1490401508723/zelda-BOTW-soundtrack-recreated.jpg",
+				"songArtist": "Yasuaki Iwata",
+				"link": "https://vgmsite.com/soundtracks/the-legend-of-zelda-breath-of-the-wild/eyelbdeaqo/5-22%20Reunion-%20Daruk.mp3",
+				"trackTime": "1:43"
+			  },
 			{
 				index: "4",
 				songName: "Gavurlar",
