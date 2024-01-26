@@ -1,6 +1,7 @@
 # Pianify
 
 Dive into the harmonious world of **Pianify**, a remarkable front-end clone project that seamlessly fuses the creative prowess of *Oğuzhan ULUKAYA* with the innovative touch of *Jack Underwood*. Born out of a collaborative spirit, this project serves as a sophisticated website and Progressive Web App (PWA), tailored to flawlessly control your Homemade Self Playing Piano.
+[![Jcnjraj.png](https://iili.io/Jcnjraj.png)](https://freeimage.host/)
 
 ## Preview the Collaborative Brilliance
 Experience the synergy of *Oğuzhan ULUKAYA* and *Jack Underwood's* expertise by visiting the [**Pianify Preview**](https://piano-website-chi.vercel.app/).
