@@ -9,7 +9,11 @@ Experience the synergy of *Oğuzhan ULUKAYA* and *Jack Underwood's* expertise by
 
 ## Cutting-Edge Technologies at Play
 *Pianify* harnesses the latest technologies to provide a cutting-edge and immersive user experience. Powered by **React** for dynamic responsiveness and styled with precision using **CSS**, this project exemplifies a perfect blend of aesthetics and functionality.
+## Pianify Song Gen
 
+Auto Gen song JSON data for fast addition of songs
+
+[**Song Gen**](https://pianify-data-gen.vercel.app/).
 ## Unveiling an Elegant Design
 Inspired by the renowned Spotify Web Player, *Pianify* boasts an intuitive and elegant user interface. Navigating the application is a breeze, ensuring that users can effortlessly control their Homemade Self Playing Piano with finesse and ease.
 
